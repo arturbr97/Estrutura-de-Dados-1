@@ -1,0 +1,1 @@
+A recursividade acontece quando uma funcao é capaz de "chamar" a si mesma, e com uma condição de parada, retornar um valor para a função principal.
